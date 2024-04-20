@@ -1,0 +1,11 @@
+{
+  "name": "msl",
+  "version": "1.0.0",
+  "main": "./src/app.ts",
+  "repository": "https://github.com/alongw/msl.git",
+  "author": "alongw <alongnyaa@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
